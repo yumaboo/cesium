@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "y_nodes_20_30_with_vector",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osmid": 1985361091, "y": 3833813.752720661, "x": 547573.16100263817, "highway": null, "street_count": 3, "ref": null, "railway": null, "angle_range": "20-30", "min_angle": 24.2, "residual_angle": 323.67, "res_vec_x": 0.8057, "res_vec_y": -0.5924 }, "geometry": { "type": "Point", "coordinates": [ 135.519106599999986, 34.6451368 ] } },
+{ "type": "Feature", "properties": { "osmid": 9847061376, "y": 3833833.7202402642, "x": 547522.73455506819, "highway": null, "street_count": 4, "ref": null, "railway": null, "angle_range": "20-30", "min_angle": 27.7, "residual_angle": 328.64, "res_vec_x": 0.8539, "res_vec_y": -0.5205 }, "geometry": { "type": "Point", "coordinates": [ 135.518557499999986, 34.64531920000001 ] } },
+{ "type": "Feature", "properties": { "osmid": 8383032861, "y": 3833928.8793305135, "x": 547191.97865522583, "highway": null, "street_count": 3, "ref": null, "railway": null, "angle_range": "20-30", "min_angle": 26.8, "residual_angle": 177.41, "res_vec_x": -0.999, "res_vec_y": 0.0452 }, "geometry": { "type": "Point", "coordinates": [ 135.5149538, 34.6461926 ] } },
+{ "type": "Feature", "properties": { "osmid": 8383032856, "y": 3833956.6624455093, "x": 547095.02173269761, "highway": null, "street_count": 3, "ref": null, "railway": null, "angle_range": "20-30", "min_angle": 29.9, "residual_angle": 329.04, "res_vec_x": 0.8575, "res_vec_y": -0.5145 }, "geometry": { "type": "Point", "coordinates": [ 135.5138974, 34.6464476 ] } },
+{ "type": "Feature", "properties": { "osmid": 8383032857, "y": 3833942.5156292906, "x": 547108.71250315337, "highway": null, "street_count": 3, "ref": null, "railway": null, "angle_range": "20-30", "min_angle": 29.9, "residual_angle": 149.01, "res_vec_x": -0.8573, "res_vec_y": 0.5148 }, "geometry": { "type": "Point", "coordinates": [ 135.514046, 34.6463194 ] } }
+]
+}
