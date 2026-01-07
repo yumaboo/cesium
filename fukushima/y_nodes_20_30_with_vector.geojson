@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "y_nodes_20_30_with_vector",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osmid": 571276648, "y": 3839264.6219954714, "x": 544344.12407220295, "highway": "traffic_signals", "street_count": 5, "junction": null, "ref": null, "angle_range": "20-30", "min_angle": 28.3, "residual_angle": 268.18, "res_vec_x": -0.0317, "res_vec_y": -0.9995 }, "geometry": { "type": "Point", "coordinates": [ 135.4841592, 34.6944355 ] } },
+{ "type": "Feature", "properties": { "osmid": 1838363675, "y": 3839123.524586821, "x": 544345.13247224386, "highway": "traffic_signals", "street_count": 5, "junction": null, "ref": null, "angle_range": "20-30", "min_angle": 26.3, "residual_angle": 220.88, "res_vec_x": -0.7561, "res_vec_y": -0.6545 }, "geometry": { "type": "Point", "coordinates": [ 135.4841628, 34.6931631 ] } },
+{ "type": "Feature", "properties": { "osmid": 1465055536, "y": 3839830.4929221421, "x": 544186.63800033962, "highway": "traffic_signals", "street_count": 5, "junction": null, "ref": null, "angle_range": "20-30", "min_angle": 29.0, "residual_angle": 217.0, "res_vec_x": -0.7986, "res_vec_y": -0.6018 }, "geometry": { "type": "Point", "coordinates": [ 135.482469400000014, 34.6995451 ] } }
+]
+}
