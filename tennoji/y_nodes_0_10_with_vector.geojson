@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "y_nodes_0_10_with_vector",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osmid": 1823311513, "y": 3834695.2618569797, "x": 547001.27502260765, "highway": null, "street_count": 3, "angle_range": "0-10", "min_angle": 9.4, "residual_angle": 152.28, "res_vec_x": -0.8852, "res_vec_y": 0.4652 }, "geometry": { "type": "Point", "coordinates": [ 135.5129155, 34.653112299999989 ] } }
+]
+}
